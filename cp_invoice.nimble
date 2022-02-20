@@ -13,4 +13,4 @@ bin           = @["cp_invoice"]
 requires "nim >= 1.5.1"
 requires "clipboard"
 requires "regex"
-# requires "https://github.com/xioren/filetype.nim"
+requires "filetype"
